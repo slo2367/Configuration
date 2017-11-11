@@ -1,3 +1,4 @@
 ---
 service:
   prop:prop value from config server
+
