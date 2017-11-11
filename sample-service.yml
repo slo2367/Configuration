@@ -1,4 +1,5 @@
 ---
 service:
-  prop:prop value from config server
+  prop:Prop value from sample-service
+ 
 
